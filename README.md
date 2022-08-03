@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I am a Frontend Developer </h1>
 <div id="header" align="center">
-  <img src="https://marketingweek.imgix.net/content/uploads/2017/05/12103940/Coding-featured.jpg" width="250"/>
+  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400"/>
 </div>
 
 - 🔭 I’m currently working at Clarusway as a TA,
