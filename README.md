@@ -9,6 +9,24 @@
 - 💚 I love coding, 
 - 🤓 I want to be a unique-crazy programmer.
 
+"root":{
+"@context":"https://w3id.org/openbadges/v2"
+"type":"Assertion"
+"id":"https://verified.cv:3000/v2/ims/43783914001899"
+"badge":"https://verified.cv:3000/v2/ims/badgeClass/43783914001899"
+"image":"https://verified.cv:3000/v2/ims/image/43783914001899"
+"verification":{
+"type":"HostedBadge"
+}
+"issuedOn":"2022-09-13T22:49:35.027Z"
+"recipient":{
+"type":"email"
+"hashed":false
+"identity":"athly21physics@gmail.com"
+}
+"evidence":[]
+}
+
 <!-- penguin -->
 <details>
     <summary><b>😒 See me</b></summary>
