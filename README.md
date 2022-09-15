@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I am a Frontend Developer </h1>
+<h1> Hi there 👋  I am a Frontend Developer </h1>
 <div id="header" align="center">
   <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400"/>
 </div>
@@ -9,23 +9,7 @@
 - 💚 I love coding, 
 - 🤓 I want to be a unique-crazy programmer.
 
-"root":{
-"@context":"https://w3id.org/openbadges/v2"
-"type":"Assertion"
-"id":"https://verified.cv:3000/v2/ims/43783914001899"
-"badge":"https://verified.cv:3000/v2/ims/badgeClass/43783914001899"
-"image":"https://verified.cv:3000/v2/ims/image/43783914001899"
-"verification":{
-"type":"HostedBadge"
-}
-"issuedOn":"2022-09-13T22:49:35.027Z"
-"recipient":{
-"type":"email"
-"hashed":false
-"identity":"athly21physics@gmail.com"
-}
-"evidence":[]
-}
+
 
 <!-- penguin -->
 <details>
