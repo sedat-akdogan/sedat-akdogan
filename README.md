@@ -9,14 +9,6 @@
 - 💚 I love coding, 
 - 🤓 I want to be a unique-crazy programmer.
 
-
-
-<!-- penguin -->
-<details>
-    <summary><b>😒 See me</b></summary>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
-</details>
-
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
 
