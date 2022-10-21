@@ -3,7 +3,7 @@
   <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400"/>
 </div>
 
-- 🔭 I’m currently working at Clarusway as a TA,
+- 🔭 I’m currently working at Clarusway as a Teaching Assistant,
 - 🌱 I’m currently boosting my JS and React skills, 
 - 📚 I am also an Educator and hold Master's Degree in Education,
 - 💚 I love coding, 
