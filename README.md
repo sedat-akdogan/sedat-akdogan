@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at Clarusway as a Teaching Assistant,
 - 🌱 I’m currently boosting my JS and React skills, 
-- 📚 I am also an Educator and hold Master's Degree in Education,
-- 💚 I love coding, 
-- 🤓 I want to be a unique-crazy programmer.
+- 📚 I am also an Educator and hold Master's Degree in Education(the University of South Wales),
+- 💚 I love coding.
+
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
