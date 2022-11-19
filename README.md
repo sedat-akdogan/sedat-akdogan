@@ -1,6 +1,6 @@
-<h1> Hi there 👋  I am a Frontend Developer </h1>
+<h1 align="center"> Hi there 👋  I am a Frontend Developer </h1>
 <div id="header" align="center">
-  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="500" height="auto/>
+  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400" height="auto/>
 </div>
                                                                                                                            
 
