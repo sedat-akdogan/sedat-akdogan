@@ -11,6 +11,7 @@
   <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400" height="auto/>
 </div>
    
+   <br> <br>
                                                                                                                            
 <div id="badges">
   <a href="your-linkedin-URL">
