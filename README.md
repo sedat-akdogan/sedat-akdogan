@@ -6,6 +6,7 @@
 - 📚 I am also an Educator and hold Master's Degree in Education(the University of South Wales [UK]),
 - 💚 I love coding.                                                                                                             
 
+<br> <br>
                                                                                                               
 <div id="header" align="center">
   <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="400" height="auto/>
