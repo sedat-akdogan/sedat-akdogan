@@ -10,7 +10,7 @@
   <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="600" height="auto style="block"/>
 </div>
                                                                                                                                                                                                                                                  
-<div>
+<div id="lan">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="inline-block"/>&nbsp;
                                                                                                                                                      
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40" style="inline-block"/>&nbsp;
