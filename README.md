@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋  I am a Frontend Developer </h1>   
+<h1 align="center"> Hi there 👋  I am a Front End Developer </h1>   
 
 
 - 🔭 I’m currently working at Clarusway as a Teaching Assistant,
