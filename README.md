@@ -1,4 +1,4 @@
-<h1 align="center" font-size="20px"> Hi there 👋  I am a Front End Developer </h1>   
+<h1 align="center" font-size="30px"> Hi there 👋  I am a Front End Developer </h1>   
 
 
 - 🔭 I’m currently working at Clarusway as a Teaching Assistant,
@@ -7,7 +7,7 @@
 - 💚 Coding is nothing but a lifelong passion of me.                                                                                                           
                                                                                                               
 <div id="header" align="center">
-  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="600" height="auto style="block"/>
+  <img src="https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg" width="600" height="auto" style="block"/>
 </div>
                                                                                                                                              
  
