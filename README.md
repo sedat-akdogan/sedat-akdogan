@@ -1,4 +1,4 @@
-<h1 align="center" font-size="30px"> Hi there 👋  I am a Front End Developer </h1>   
+<h1 align="center" font-size="30px" text-color="blue"> Hi there 👋  I am a Front End Developer </h1>   
 
 
 - 🔭 I’m currently working at Clarusway as a Teaching Assistant,
